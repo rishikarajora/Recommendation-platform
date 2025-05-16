@@ -44,6 +44,6 @@ A personalized movie recommendation system that suggests movies based on user pr
    cd movie-recommender-ml
 2. **Install Dependencies**
   ```bash
-  pip install -r requirements.txt3
-
+  pip install -r requirements.txt
+3. **Run the App**
 
