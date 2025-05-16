@@ -42,3 +42,8 @@ A personalized movie recommendation system that suggests movies based on user pr
    ```bash
    git clone https://github.com/your-username/movie-recommender-ml.git
    cd movie-recommender-ml
+2. **Install Dependencies**
+  ```bash
+  pip install -r requirements.txt3
+
+
