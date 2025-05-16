@@ -45,5 +45,9 @@ A personalized movie recommendation system that suggests movies based on user pr
 2. **Install Dependencies**
   ```bash
   pip install -r requirements.txt
+```
 3. **Run the App**
+ ```bash
+ streamlit run app.py
+```
 
